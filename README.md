@@ -19,7 +19,9 @@ This set of puzzles is meant to teach you how to use Triton from first principle
 
 ---
 
-<p align="center" style="margin-top:10cm;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p align="center">
 Original [Triton Puzzles](https://github.com/srush/Triton-Puzzles) repository below
 </p>
 
