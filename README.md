@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdyro/Pallas-Puzzles/blob/main/Pallas-Puzzles.ipynb)
 
 *This is a direct fork of the [Triton Puzzles](https://github.com/srush/Triton-Puzzles), but adapted for the Pallas
-language for using a Triton-like kernel language in JAX.*
+language for using a Triton-like kernel language (Pallas) in JAX.*
 
 <p align="center">
 <img style="max-width:200px;width:100%;max-height:200px" src="pallas_puzzles_logo.svg">
