@@ -16,12 +16,11 @@ This often means programming directly in proprietary low-level languages such as
 
 Coding for Pallas is very similar to Numpy and JAX in both syntax and semantics. However, as a lower-level language there are a lot of details that you need to keep track of. In particular, one area that learners have trouble with is memory loading and storage which is critical for speed on low-level devices.
 
-This set of puzzles is meant to teach you how to use Triton from first principles in an interactive fashion. You will start with trivial examples and build your way up to real algorithms like Flash Attention and Quantized neural networks. These puzzles **do not** need to run on GPU since they can use the Pallas (CPU-based) interpreter.
+This set is puzzles is meant to teach you how to use Pallas from first principles in an interactive fashion. You will start with trivial examples and build your way up to real algorithms like Flash Attention and Quantized neural networks. These puzzles **do not** need to run on GPU since Pallas has an interpreter, but be careful as the interpreter might produce somewhat different results to the GPU with masked loads and stores.
 
 <!-- TODO: Discord: https://discord.gg/cudamode #triton-puzzles -->
 
 <!-- TODO: ![image](https://github.com/srush/Triton-Puzzles/assets/35882/3e18a47d-1311-43d0-a025-ed1f593f919e) -->
-
 
 ---
 
