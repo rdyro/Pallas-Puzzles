@@ -6,7 +6,7 @@
 language for using a Triton-like kernel language in JAX.*
 
 <p align="center">
-<img style="max-width:400px;width:100%" src="pallas_puzzles_logo.svg">
+<img style="max-width:200px;width:100%" src="pallas_puzzles_logo.svg">
 </p>
 
 By Robert Dyro, Ed Schmerling
