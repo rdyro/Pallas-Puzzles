@@ -1,9 +1,15 @@
 # Pallas Puzzles
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdyro/Pallas-Puzzles/blob/main/Pallas-Puzzles.ipynb)
+
 *This is a direct fork of the [Triton Puzzles](https://github.com/srush/Triton-Puzzles), but adapted for the Pallas
 language for using a Triton-like kernel language in JAX.*
 
-<!--TODO: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srush/Triton-Puzzles/blob/main/Triton-Puzzles.ipynb)-->
+<p align="center">
+<img style="max-width:400px;width:100%" src="pallas_puzzles_logo.svg">
+</p>
+
+By Robert Dyro, Ed Schmerling
 
 Programming for accelerators such as GPUs is critical for modern AI systems.
 This often means programming directly in proprietary low-level languages such as CUDA. [Pallas](https://jax.readthedocs.io/en/latest/pallas/index.html) is an alternative [Triton](https://github.com/triton-lang/triton)-like language that allows you to code at a higher-level and compile to accelerators like GPU and TPU for [JAX](https://jax.readthedocs.io/).
